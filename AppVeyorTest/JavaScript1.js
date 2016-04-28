@@ -1,2 +1,1 @@
 var a = undefined;
-a();
